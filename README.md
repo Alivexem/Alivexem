@@ -3,7 +3,7 @@
 - ✨ I’m currently learning react native for mobile app development 
 - ✨ Considering my drive, I'm looking to collaborate on the next problem solver
 - - - - - -
-- ✨ DO YOU KNOW: Tech isn't addictive!
+- 🤔🤔🤔 DO YOU KNOW THAT TECH ISN'T ADDICTIVE?
 
 <!---
 Alivexem/Alivexem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
