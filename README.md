@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Alivexem
+# Welcome To My GitHub Profile, my specs are below:
+- 👋 Hi, I’m Athkins Emmanuel
 - 👀 I’m interested in web development with MERN stack
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on the next problem solver
