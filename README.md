@@ -1,9 +1,8 @@
 # Welcome To My GitHub Profile:
-- ✨ I have special interest in web development with MERN stack
-- ✨ I’m currently learning react native for mobile app development 
-- ✨ Considering my drive, I'm looking to collaborate on the next problem solver
+- 💎 I have special interest in web development with MERN stack
+- 💎 I’m currently improving my skill, the goal is to become a better person.
+- 💎 Collaborating on the next problem solver doesn't sound like a bad idea
 - - - - - -
-*** Let's get to work!
 
 <!---
 Alivexem/Alivexem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
