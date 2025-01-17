@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alivexem" alt="alivexem" /></a> </p>
 
-- 🔭 I’m currently working on [Unical Slime](https://unical-slime.vercel.app)
+- 🔭 I’m currently working on [Techvantage Social App](https://techvantage-social-app-tau.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://alivexemtech.vercel.app](https://alivexemtech.vercel.app)
+- 👨‍💻 All of my projects are available at [https://athkins.vercel.app](https://athkins.vercel.app)
 
 - 💬 Ask me about **React, NextJS, Vanillajs, NodeJs**
 
